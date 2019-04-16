@@ -1,4 +1,4 @@
 # hello-world
-GIT Trial
+GIT trail branch
 
-Handson GIT.
+cleartax handson.
